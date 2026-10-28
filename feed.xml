@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>晨間簡報</title>
+    <link>https://img0001.github.io/morning-brief/</link>
+    <description>每天十分鐘：經濟、世界局勢、時政、顯卡配件、科技前沿。</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 28 Oct 2026 18:33:48 +0000</lastBuildDate>
+    <itunes:author>狗修金</itunes:author>
+    <itunes:summary>每天十分鐘：經濟、世界局勢、時政、顯卡配件、科技前沿。</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://img0001.github.io/morning-brief/cover.jpg"/>
+    <image><url>https://img0001.github.io/morning-brief/cover.jpg</url><title>晨間簡報</title><link>https://img0001.github.io/morning-brief/</link></image>
+    <itunes:category text="News"/>
+    <item>
+      <title>音色試聽（五種）</title>
+      <description>焦晃、漢弗萊、新聞聯播、2077 N54 五條對比</description>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+      <guid isPermaLink="false">6019859aca31fa4de90deee43cc3598d</guid>
+      <enclosure url="https://img0001.github.io/morning-brief/audio/2026-10-29.mp3" length="1474290" type="audio/mpeg"/>
+      <itunes:duration>2:02</itunes:duration>
+    </item>
+  </channel>
+</rss>
