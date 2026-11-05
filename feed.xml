@@ -6,13 +6,21 @@
     <link>https://img0001.github.io/morning-brief/</link>
     <description>每天十分鐘：經濟、世界局勢、時政、顯卡配件、科技前沿。</description>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 04 Nov 2026 00:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:43:08 +0000</lastBuildDate>
     <itunes:author>狗修金</itunes:author>
     <itunes:summary>每天十分鐘：經濟、世界局勢、時政、顯卡配件、科技前沿。</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://img0001.github.io/morning-brief/cover.jpg"/>
     <image><url>https://img0001.github.io/morning-brief/cover.jpg</url><title>晨間簡報</title><link>https://img0001.github.io/morning-brief/</link></image>
     <itunes:category text="News"/>
+    <item>
+      <title>2026-11-05 晨間簡報</title>
+      <description>經濟、世界局勢、時政、顯卡配件、科技前沿</description>
+      <pubDate>Thu, 05 Nov 2026 00:30:00 +0000</pubDate>
+      <guid isPermaLink="false">979c2af1387ae5a385e560e0c17ab7a5</guid>
+      <enclosure url="https://img0001.github.io/morning-brief/audio/2026-11-05-0943.mp3" length="5068007" type="audio/mpeg"/>
+      <itunes:duration>10:33</itunes:duration>
+    </item>
     <item>
       <title>2026-11-04 晨間簡報</title>
       <description>世界局勢、國內經濟、國際財經、時政、顯卡配件、科技前沿</description>
